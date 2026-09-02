@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer**
 
-I spent 5 years as a Data Engineer and quantitative trader, writing Python to backtest 5–10 years of market data and develop intraday strategies for small caps and short-term swing strategies for mid-to-large caps. That work is where my engineering instincts come from, data-driven, detail-obsessed, and focused on finding the most efficient path from problem to solution. Habits that carried directly into how I approach software architecture today.
+I spent 5 years as a Data Engineer and quantitative researcher, building backtesting infrastructure and data pipelines to process 5–10 years of market data and develop intraday strategies for small caps and short-term swing strategies for mid-to-large caps. That work is where my engineering instincts come from, data-driven, detail-obsessed, and focused on finding the most efficient path from problem to solution. Habits that carried directly into how I approach software architecture today.
 
 B.S. in Computer Science, Lehman College (New York, NY).
 
