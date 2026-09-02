@@ -2,9 +2,11 @@
 
 **Full-Stack Software Engineer**
 
-I used to chase alpha, 5 years as a quantitative trader, writing Python to backtest 5-10 years of market data, developing intraday strategies for small caps and short-term swing strategies for mid-to-large caps. These days I chase clean architecture instead, but the instincts are the same: data-driven, detail-obsessed, and always hunting for the most efficient path from problem to solution. B.S. in Computer Science from Lehman College in New York, NY.
+I spent 5 years as a Data Engineer and quantitative trader, writing Python to backtest 5–10 years of market data and develop intraday strategies for small caps and short-term swing strategies for mid-to-large caps. That work is where my engineering instincts come from, data-driven, detail-obsessed, and focused on finding the most efficient path from problem to solution. Habits that carried directly into how I approach software architecture today.
 
-When I'm not at the computer, I'm probably out logging miles training for a half-marathon PR (marathon #1 in the works), somewhere new with a camera in hand, or still keeping half an eye on the market out of old habit.
+B.S. in Computer Science, Lehman College (New York, NY).
+
+Outside of work, I train for half-marathons (marathon #1 is on the calendar), travel with a camera, and still keep half an eye on the markets out of habit.
 
 ---
 
