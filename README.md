@@ -15,19 +15,37 @@ Outside of work, I train for half-marathons (marathon #1 is on the calendar), tr
 
 ## Featured Projects
 
+### 🔹 [Orbit](https://orbit.jmontoya.dev)
+A household coordination app for shared to-dos and recurring monthly obligations, with role-based Spaces (Owner, Editor, Read-only) and a combined Upcoming view.
+ 
+**Stack:** Next.js · Better Auth · Drizzle · Postgres (Neon) · Resend · Vitest · Playwright · GitHub Actions
+ 
+**Highlights:**
+- One shared service layer behind both Server Actions (web) and a versioned `/api/v1` (mobile-ready).
+- Multi-tenant rules enforced in Postgres, plus idempotent reminder emails using advisory locks and a notification log.
+- ~50 Vitest tests and Playwright E2E on isolated Neon branches, with CI running lint, typecheck, build, and tests.
+
+[Live Demo](https://orbit.jmontoya.dev) · [Repo](https://github.com/JonTrader/orbit)
+
 ### 🔹 [Evoludent](https://evoludent.jmontoya.dev)
 A dental practice management platform that streamlines clinical workflows, including AI-generated clinical notes using Google Gemini.
+
 **Stack:** TypeScript · MongoDB · React · Docker · GitHub Actions · AWS
+
 **Highlights:** Containerized with Docker and deployed to AWS through an automated GitHub Actions CI/CD pipeline.
+
 [Live Demo](https://evoludent.jmontoya.dev)
 
 ### 🔹 [MaxApp](https://maxapp.jmontoya.dev)
 An AI-powered job application tracker that organizes and prioritizes your job search, and uses Google Gemini to review your resume and tailor it to each job description.
+
 **Stack:** Next.js · TypeScript · MongoDB · Google Gemini API
+
 [Live Demo](https://maxapp.jmontoya.dev)
 
 ### 🔹 [Portfolio Website](https://jmontoya.dev)
 A minimalist portfolio with a built-in analytics dashboard that tracks sessions, clicks, hovers, and page views, visualized through charts.
+
 [Live Site](https://jmontoya.dev)
 
 ---
